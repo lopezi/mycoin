@@ -1,0 +1,2 @@
+# mycoin
+Sum it up.
